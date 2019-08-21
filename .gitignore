@@ -1,0 +1,8 @@
+/venv/
+*.pdf
+
+.idea/
+
+*.xml
+
+test.py
